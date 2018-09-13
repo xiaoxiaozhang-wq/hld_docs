@@ -19,7 +19,7 @@
   * [2.4大盘逃顶](er-3001-te-se-gong-neng-shuo-ming/24da-pan-tao-ding.md)
   * [2.5主力资金（资金流向）](er-3001-te-se-gong-neng-shuo-ming/25zhu-li-zi-jin-ff08-zi-jin-liu-xiang-ff09.md)
   * [2.6热点挖掘](er-3001-te-se-gong-neng-shuo-ming/26re-dian-wa-jue.md)
-  * 2.7领涨龙头
+  * [2.7领涨龙头](er-3001-te-se-gong-neng-shuo-ming/27ling-zhang-long-tou.md)
   * 2.8绩优龙头
   * 2.9机构成本
   * 3.0强弱分界
