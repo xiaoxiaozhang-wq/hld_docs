@@ -47,13 +47,13 @@
   * [4.7 分屏显示](47-fen-ping-xian-shi.md)
   * [4.8多布局](48duo-bu-ju.md)
   * [4.9品种联动](49pin-zhong-lian-dong.md)
-  * 5.0设置
+  * [5.0设置](50she-zhi.md)
 * [八、操作指南](ba-3001-cao-zuo-zhi-nan.md)
-  * 5.1十字光标联动
-  * 5.2键盘精灵
-  * 5.3键盘精灵快捷键
-  * 5.4页面布局快捷键
-  * 5.5自助委托设置
+  * [5.1十字光标联动](ba-3001-cao-zuo-zhi-nan/51shi-zi-guang-biao-lian-dong.md)
+  * [5.2键盘精灵](ba-3001-cao-zuo-zhi-nan/52jian-pan-jing-ling.md)
+  * [5.3键盘精灵快捷键](ba-3001-cao-zuo-zhi-nan/53jian-pan-jing-ling-kuai-jie-jian.md)
+  * [5.4页面布局快捷键](ba-3001-cao-zuo-zhi-nan/54ye-mian-bu-ju-kuai-jie-jian.md)
+  * [5.5自助委托设置](ba-3001-cao-zuo-zhi-nan/55zi-zhu-wei-tuo-she-zhi.md)
   * 5.6系统
 * 九、后记
 
