@@ -37,7 +37,7 @@
 * [五、布局](wu-3001-bu-ju.md)
   * [4.0超跌反弹战法](wu-3001-bu-ju/40chao-die-fan-dan-zhan-fa.md)
   * [4.1 313战法](wu-3001-bu-ju/41-313zhan-fa.md)
-  * 4.2量化分析
+  * [4.2量化分析](wu-3001-bu-ju/42liang-hua-fen-xi.md)
 * [六、特色指标组](liu-3001-te-se-zhi-biao-zu.md)
   * 4.3金盾指标
   * 4.4箱体指标
