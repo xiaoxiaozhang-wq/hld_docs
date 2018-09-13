@@ -10,7 +10,7 @@
   * [1.6常用术语](chapter1/16chang-yong-zhu-yu.md)
   * [1.7黄蓝带安装](chapter1/17huang-lan-dai-an-zhuang.md)
   * [1.8登录](chapter1/18deng-lu.md)
-  * 1.9代理登录
+  * [1.9代理登录](chapter1/19dai-li-deng-lu.md)
 * [二、特色功能说明](er-3001-te-se-gong-neng-shuo-ming.md)
   * 2.0周期
   * 2.1短线操作
