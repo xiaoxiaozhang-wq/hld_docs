@@ -12,9 +12,9 @@
   * [1.8登录](chapter1/18deng-lu.md)
   * [1.9代理登录](chapter1/19dai-li-deng-lu.md)
 * [二、特色功能说明](er-3001-te-se-gong-neng-shuo-ming.md)
-  * 2.0周期
-  * 2.1短线操作
-  * 2.2中线操作
+  * [2.0周期](er-3001-te-se-gong-neng-shuo-ming/20zhou-qi.md)
+  * [2.1短线操作](er-3001-te-se-gong-neng-shuo-ming/21duan-xian-cao-zuo.md)
+  * [2.2中线操作](er-3001-te-se-gong-neng-shuo-ming/22zhong-xian-cao-zuo.md)
   * 2.3大盘抄底
   * 2.4大盘逃顶
   * 2.5主力资金（资金流向）
