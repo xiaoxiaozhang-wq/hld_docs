@@ -33,7 +33,7 @@
   * [3.6动态选股](si-3001-xuan-gu/36dong-tai-xuan-gu.md)
   * [3.7特色选股](si-3001-xuan-gu/37te-se-xuan-gu.md)
   * [3.8热门强龙选股](si-3001-xuan-gu/38re-men-qiang-long-xuan-gu.md)
-  * 3.9一箭三雕选股
+  * [3.9一箭三雕选股](si-3001-xuan-gu/39yi-jian-san-diao-xuan-gu.md)
 * [五、布局](wu-3001-bu-ju.md)
   * 4.0超跌反弹战法
   * 4.1 313战法
