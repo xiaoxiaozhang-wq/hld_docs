@@ -27,7 +27,7 @@
 * 三、特色统计
   * [3.2持仓统计](32chi-cang-tong-ji.md)
   * [3.3大单统计](33da-dan-tong-ji.md)
-  * 3.4板块周期统计
+  * [3.4板块周期统计](34ban-kuai-zhou-qi-tong-ji.md)
   * 3.5星空雷达
 * [四、选股](si-3001-xuan-gu.md)
   * 3.6动态选股
