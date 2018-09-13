@@ -39,7 +39,7 @@
   * [4.1 313战法](wu-3001-bu-ju/41-313zhan-fa.md)
   * [4.2量化分析](wu-3001-bu-ju/42liang-hua-fen-xi.md)
 * [六、特色指标组](liu-3001-te-se-zhi-biao-zu.md)
-  * 4.3金盾指标
+  * [4.3金盾指标](liu-3001-te-se-zhi-biao-zu/43jin-dun-zhi-biao.md)
   * 4.4箱体指标
   * 4.5 四剑合一
   * 4.6拐点预测
