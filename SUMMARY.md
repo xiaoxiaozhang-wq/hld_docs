@@ -23,7 +23,7 @@
   * [2.8绩优龙头](er-3001-te-se-gong-neng-shuo-ming/28ji-you-long-tou.md)
   * [2.9机构成本](er-3001-te-se-gong-neng-shuo-ming/29ji-gou-cheng-ben.md)
   * [3.0强弱分界](er-3001-te-se-gong-neng-shuo-ming/30qiang-ruo-fen-jie.md)
-  * 3.1牛熊分界
+  * [3.1牛熊分界](er-3001-te-se-gong-neng-shuo-ming/31niu-xiong-fen-jie.md)
 * 三、特色统计
   * 3.2持仓统计
   * 3.3大单统计
