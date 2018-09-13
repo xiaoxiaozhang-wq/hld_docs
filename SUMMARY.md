@@ -44,8 +44,8 @@
   * [4.5 四剑合一](liu-3001-te-se-zhi-biao-zu/45-si-jian-he-yi.md)
   * [4.6拐点预测](liu-3001-te-se-zhi-biao-zu/46guai-dian-yu-ce.md)
 * 七、多屏设置
-  * 4.7 分屏显示
-  * 4.8多布局
+  * [4.7 分屏显示](47-fen-ping-xian-shi.md)
+  * [4.8多布局](48duo-bu-ju.md)
   * 4.9品种联动
   * 5.0设置
 * [八、操作指南](ba-3001-cao-zuo-zhi-nan.md)
