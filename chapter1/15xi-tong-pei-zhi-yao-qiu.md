@@ -1,4 +1,4 @@
-1.5系统配置要求
+## 1.5系统配置要求
 
 系统能在较低档配置的电脑上运行，适应目前证券行业的微机配置偏低的现状，更为个人版用户提供方便。
 
@@ -16,5 +16,5 @@ CPU Pentium\(586\)／166以上
 
 中文版 WindowsXP/ Win7/Win10/VISTA
 
-西文版 WindowsXP/Win7/Win10/VISTA 
+西文版 WindowsXP/Win7/Win10/VISTA
 
