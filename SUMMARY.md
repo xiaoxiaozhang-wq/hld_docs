@@ -7,7 +7,7 @@
   * [1.3版权声明](chapter1/13ban-quan-sheng-ming.md)
   * [1.4软件功能综述](chapter1/14ruan-jian-gong-neng-zong-shu.md)
   * [1.5系统配置要求](chapter1/15xi-tong-pei-zhi-yao-qiu.md)
-  * 1.6常用术语
+  * [1.6常用术语](chapter1/16chang-yong-zhu-yu.md)
   * 1.7黄蓝带安装
   * 1.8登录
   * 1.9代理登录
