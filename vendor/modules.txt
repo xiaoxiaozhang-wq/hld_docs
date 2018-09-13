@@ -1,0 +1,30 @@
+# github.com/GeertJohan/go.rice v0.0.0-20170420135705-c02ca9a983da
+github.com/GeertJohan/go.rice
+github.com/GeertJohan/go.rice/embedded
+# github.com/daaku/go.zipexe v0.0.0-20150329023125-a5fe2436ffcb
+github.com/daaku/go.zipexe
+# github.com/dgrijalva/jwt-go v3.2.0+incompatible
+github.com/dgrijalva/jwt-go
+# github.com/kardianos/osext v0.0.0-20170510131534-ae77be60afb1
+github.com/kardianos/osext
+# github.com/labstack/echo v3.2.1+incompatible
+github.com/labstack/echo
+github.com/labstack/echo/middleware
+# github.com/labstack/gommon v0.2.7
+github.com/labstack/gommon/color
+github.com/labstack/gommon/log
+github.com/labstack/gommon/bytes
+github.com/labstack/gommon/random
+# github.com/mattn/go-colorable v0.0.9
+github.com/mattn/go-colorable
+# github.com/mattn/go-isatty v0.0.4
+github.com/mattn/go-isatty
+# github.com/valyala/bytebufferpool v1.0.0
+github.com/valyala/bytebufferpool
+# github.com/valyala/fasttemplate v0.0.0-20170224212429-dcecefd839c4
+github.com/valyala/fasttemplate
+# golang.org/x/crypto v0.0.0-20180910181607-0e37d006457b
+golang.org/x/crypto/acme/autocert
+golang.org/x/crypto/acme
+# golang.org/x/sys v0.0.0-20180909124046-d0be0721c37e
+golang.org/x/sys/unix

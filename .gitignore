@@ -28,3 +28,7 @@ node_modules
 book.pdf
 book.epub
 book.mobi
+/_book/hld
+/hld
+/_book/vendor/
+/_book/main.go
