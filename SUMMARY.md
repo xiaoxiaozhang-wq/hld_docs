@@ -3,9 +3,9 @@
 * [Introduction](README.md)
 * [一、软件基础功能说明](chapter1.md)
   * [1.1简介说明](chapter1/11jian-jie-shuo-ming.md)
-  * 1.2免责声明
-  * 1.3版权声明
-  * 1.4软件功能综述
+  * [1.2免责声明](chapter1/12mian-ze-sheng-ming.md)
+  * [1.3版权声明](chapter1/13ban-quan-sheng-ming.md)
+  * [1.4软件功能综述](chapter1/14ruan-jian-gong-neng-zong-shu.md)
   * 1.5系统配置要求
   * 1.6常用术语
   * 1.7黄蓝带安装
