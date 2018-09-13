@@ -32,3 +32,6 @@ book.mobi
 /hld
 /_book/vendor/
 /_book/main.go
+/_book/go.mod
+/_book/go.sum
+/_book/main.go
