@@ -30,7 +30,7 @@
   * [3.4板块周期统计](34ban-kuai-zhou-qi-tong-ji.md)
   * [3.5星空雷达](35xing-kong-lei-da.md)
 * [四、选股](si-3001-xuan-gu.md)
-  * 3.6动态选股
+  * [3.6动态选股](si-3001-xuan-gu/36dong-tai-xuan-gu.md)
   * 3.7特色选股
   * 3.8热门强龙选股
   * 3.9一箭三雕选股
