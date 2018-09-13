@@ -15,7 +15,7 @@
   * [2.0周期](er-3001-te-se-gong-neng-shuo-ming/20zhou-qi.md)
   * [2.1短线操作](er-3001-te-se-gong-neng-shuo-ming/21duan-xian-cao-zuo.md)
   * [2.2中线操作](er-3001-te-se-gong-neng-shuo-ming/22zhong-xian-cao-zuo.md)
-  * 2.3大盘抄底
+  * [2.3大盘抄底](er-3001-te-se-gong-neng-shuo-ming/23da-pan-chao-di.md)
   * 2.4大盘逃顶
   * 2.5主力资金（资金流向）
   * 2.6热点挖掘
