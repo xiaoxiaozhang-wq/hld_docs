@@ -46,7 +46,7 @@
 * 七、多屏设置
   * [4.7 分屏显示](47-fen-ping-xian-shi.md)
   * [4.8多布局](48duo-bu-ju.md)
-  * 4.9品种联动
+  * [4.9品种联动](49pin-zhong-lian-dong.md)
   * 5.0设置
 * [八、操作指南](ba-3001-cao-zuo-zhi-nan.md)
   * 5.1十字光标联动
