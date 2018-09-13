@@ -8,7 +8,7 @@
   * [1.4软件功能综述](chapter1/14ruan-jian-gong-neng-zong-shu.md)
   * [1.5系统配置要求](chapter1/15xi-tong-pei-zhi-yao-qiu.md)
   * [1.6常用术语](chapter1/16chang-yong-zhu-yu.md)
-  * 1.7黄蓝带安装
+  * [1.7黄蓝带安装](chapter1/17huang-lan-dai-an-zhuang.md)
   * 1.8登录
   * 1.9代理登录
 * [二、特色功能说明](er-3001-te-se-gong-neng-shuo-ming.md)
