@@ -42,7 +42,7 @@
   * [4.3金盾指标](liu-3001-te-se-zhi-biao-zu/43jin-dun-zhi-biao.md)
   * [4.4箱体指标](liu-3001-te-se-zhi-biao-zu/44xiang-ti-zhi-biao.md)
   * [4.5 四剑合一](liu-3001-te-se-zhi-biao-zu/45-si-jian-he-yi.md)
-  * 4.6拐点预测
+  * [4.6拐点预测](liu-3001-te-se-zhi-biao-zu/46guai-dian-yu-ce.md)
 * 七、多屏设置
   * 4.7 分屏显示
   * 4.8多布局
