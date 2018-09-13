@@ -1,6 +1,6 @@
 # Summary
 
-* [Introduction](README.md)
+* [黄蓝带使用说明书](README.md)
 * [一、软件基础功能说明](chapter1.md)
   * [1.1简介说明](chapter1/11jian-jie-shuo-ming.md)
   * [1.2免责声明](chapter1/12mian-ze-sheng-ming.md)
@@ -24,7 +24,7 @@
   * [2.9机构成本](er-3001-te-se-gong-neng-shuo-ming/29ji-gou-cheng-ben.md)
   * [3.0强弱分界](er-3001-te-se-gong-neng-shuo-ming/30qiang-ruo-fen-jie.md)
   * [3.1牛熊分界](er-3001-te-se-gong-neng-shuo-ming/31niu-xiong-fen-jie.md)
-* 三、特色统计
+* [三、特色统计](san-3001-te-se-tong-ji.md)
   * [3.2持仓统计](32chi-cang-tong-ji.md)
   * [3.3大单统计](33da-dan-tong-ji.md)
   * [3.4板块周期统计](34ban-kuai-zhou-qi-tong-ji.md)
@@ -56,6 +56,4 @@
   * [5.5自助委托设置](ba-3001-cao-zuo-zhi-nan/55zi-zhu-wei-tuo-she-zhi.md)
   * [5.6系统](ba-3001-cao-zuo-zhi-nan/56xi-tong.md)
 * 九、后记
-
-
 
