@@ -9,7 +9,7 @@
   * [1.5系统配置要求](chapter1/15xi-tong-pei-zhi-yao-qiu.md)
   * [1.6常用术语](chapter1/16chang-yong-zhu-yu.md)
   * [1.7黄蓝带安装](chapter1/17huang-lan-dai-an-zhuang.md)
-  * 1.8登录
+  * [1.8登录](chapter1/18deng-lu.md)
   * 1.9代理登录
 * [二、特色功能说明](er-3001-te-se-gong-neng-shuo-ming.md)
   * 2.0周期
