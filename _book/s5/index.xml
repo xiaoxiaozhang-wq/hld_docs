@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S5s on 黄蓝带使用说明</title>
+    <link>http://hld.docs.jrwx.com/s5/</link>
+    <description>Recent content in S5s on 黄蓝带使用说明</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hld.docs.jrwx.com/s5/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4.0超跌反弹战法</title>
+      <link>http://hld.docs.jrwx.com/s5/40chao-die-fan-dan-zhan-fa/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s5/40chao-die-fan-dan-zhan-fa/</guid>
+      <description>4.0超跌反弹战法 超跌反弹战法是由箱体指标、操盘提醒、主力吸筹、箱、等从多指标或数据组成的一个看盘</description>
+    </item>
+    
+    <item>
+      <title>4.1 313战法</title>
+      <link>http://hld.docs.jrwx.com/s5/41-313zhan-fa/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s5/41-313zhan-fa/</guid>
+      <description>4.1 313战法 313战法是由强弱分界、金盾指标、短线操作、操盘提醒、主力吸筹、成交量等众多指标和数据组成的看盘。</description>
+    </item>
+    
+    <item>
+      <title>4.2量化分析</title>
+      <link>http://hld.docs.jrwx.com/s5/42liang-hua-fen-xi/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s5/42liang-hua-fen-xi/</guid>
+      <description>4.2量化分析 量化分析则是由强弱分界、箱体指标、金盾指标、短线操作、庄家抬轿、操盘提醒、主力吸筹等指标与数据组成的数据分析看盘。</description>
+    </item>
+    
+  </channel>
+</rss>

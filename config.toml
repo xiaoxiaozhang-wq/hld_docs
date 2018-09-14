@@ -1,0 +1,63 @@
+baseURL = "http://hld.docs.jrwx.com/"
+footnoteReturnLinkContents = "↩"
+title = "黄蓝带使用说明"
+
+[permalinks]
+  post = "/:year/:month/:title/"
+
+[menu]
+
+  [[menu.main]]
+    identifier = "s1"
+    name = "一、软件基础功能说明"
+    title = "一、软件基础功能说明"
+    # url = "/s1/"
+    weight = 1
+  [[menu.main]]
+    identifier = "s2"
+    name = "二、特色功能说明"
+    title = "二、特色功能说明"
+    # url = "/s2/"
+    weight = 2
+  [[menu.main]]
+    identifier = "s3"
+    name = "三、特色统计"
+    title = "三、特色统计"
+    url = "/s3/"
+    weight = 3
+  [[menu.main]]
+    identifier = "s4"
+    name = "四、选股"
+    title = "四、选股"
+    url = "/s4/"
+    weight = 4
+  [[menu.main]]
+    identifier = "s5"
+    name = "五、布局"
+    title = "五、布局"
+    url = "/s5/"
+    weight = 5
+  [[menu.main]]
+    identifier = "s6"
+    name = "六、特色指标组"
+    title = "六、特色指标组"
+    url = "/s6"
+    weight = 6
+  [[menu.main]]
+    identifier = "s7"
+    name = "七、多屏设置"
+    title = "七、多屏设置"
+    url = "/s7/"
+    weight = 7
+  [[menu.main]]
+    identifier = "s8"
+    name = "八、操作指南"
+    title = "八、操作指南"
+    url = "/s8/"
+    weight = 8
+  [[menu.main]]
+    identifier = "s9"
+    name = "九、后记"
+    title = "九、后记"
+    url = "/s9/hou-ji/"
+    weight = 9
