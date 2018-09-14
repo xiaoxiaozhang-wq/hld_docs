@@ -10,7 +10,7 @@
     {{ range .Site.Menus.main }}
         {{ if .HasChildren }}
             <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                <a class="ti_big" href="javascript:;" onclick="filters(this);">
+                <a class="ti_big" href="javascript:return false;" onclick="filters(this);">
                     {{ .Pre }}
                     <span>{{ .Name }}</span>
                     <i class="icon-r_sj"></i>
