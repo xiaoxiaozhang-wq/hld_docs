@@ -332,23 +332,7 @@
         
     
 </ul>
-<script>
-    function filters(intag) {
-        if (intag.tagName == "A" || intag.tagName == "a") {
-            var taga = intag.parentNode;
-            var present = taga.getElementsByTagName("ul")[0];
-            if(!present){return;}
-            if (present.style.display == "block" || present.style.display == "") {
-                
-                present.style.display = "none";
-            } else {
-                
-                present.style.display = "block";
-            }
-        }
-        return false;
-    }
-</script>
+
                 
             </div>
             <div class="fr personal_right-con">
@@ -671,28 +655,28 @@
         
     
 </ul>
-<script>
-    function filters(intag) {
-        if (intag.tagName == "A" || intag.tagName == "a") {
-            var taga = intag.parentNode;
-            var present = taga.getElementsByTagName("ul")[0];
-            if(!present){return;}
-            if (present.style.display == "block" || present.style.display == "") {
-                
-                present.style.display = "none";
-            } else {
-                
-                present.style.display = "block";
-            }
-        }
-        return false;
-    }
-</script>
+
 
                 </div>
             </div>
         </div>
     </div>
 </body>
-
+<script>
+        function filters(intag) {
+            if (intag.tagName == "A" || intag.tagName == "a") {
+                var taga = intag.parentNode;
+                var present = taga.getElementsByTagName("ul")[0];
+                if(!present){return;}
+                if (present.style.display == "block" || present.style.display == "") {
+                    
+                    present.style.display = "none";
+                } else {
+                    
+                    present.style.display = "block";
+                }
+            }
+            return false;
+        }
+    </script>
 </html>
