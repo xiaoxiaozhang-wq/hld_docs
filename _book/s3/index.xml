@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S3s on 黄蓝带使用说明</title>
+    <link>http://hld.docs.jrwx.com/s3/</link>
+    <description>Recent content in S3s on 黄蓝带使用说明</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hld.docs.jrwx.com/s3/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>3.2持仓统计</title>
+      <link>http://hld.docs.jrwx.com/s3/32chi-cang-tong-ji/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s3/32chi-cang-tong-ji/</guid>
+      <description>3.2持仓统计 在股市中计算庄家、主力的持仓量，可以很好的判断庄家目前处于何种阶段，如果是建仓阶段就应该伺机跟进；如果是出货阶段就应该赶快平仓出局。这其实也是股市制胜的一个要点。但要非常精确的知道庄家、主力的持仓量是一件不可能的事情，我们只能根据不同的阶段、不同的时间，用某种方法去大致的估算它。</description>
+    </item>
+    
+    <item>
+      <title>3.3大单统计</title>
+      <link>http://hld.docs.jrwx.com/s3/33da-dan-tong-ji/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s3/33da-dan-tong-ji/</guid>
+      <description>3.3大单统计 大单统计记录了个股的超大单买入量、净买入量、卖出量、大单买入量、卖出量、中小单买入量、卖出量、买入总金额、卖出总金额、每股金额、每股股数以及超大单换手率、大单换手率。</description>
+    </item>
+    
+    <item>
+      <title>3.4板块周期统计</title>
+      <link>http://hld.docs.jrwx.com/s3/34ban-kuai-zhou-qi-tong-ji/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s3/34ban-kuai-zhou-qi-tong-ji/</guid>
+      <description>3.4板块周期统计 显示相关板块数据,起始时间到结束时间可以自由调整，设置好统计周期后，系统会自动统计几年内板块的涨跌数据，可以点击 1 月到 12 月任何一个月份，系统会自动帮助排序，显示过去几年中，各个月份哪些板块领涨、哪些板块领跌。</description>
+    </item>
+    
+    <item>
+      <title>3.5星空雷达</title>
+      <link>http://hld.docs.jrwx.com/s3/35xing-kong-lei-da/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s3/35xing-kong-lei-da/</guid>
+      <description>3.5星空雷达 可通过星空雷达监测板块或个股的涨幅、 换手、自设指标等,用于发现潜力板块和个股。可方便地对比各个板块的涨幅,更直观的对板块热度进行分析。点击特色中的“星空雷达”即可进入。
+1、选择种类:涨幅、换手、自设指标;
+2、时段:可选不同的时间 5 日、10 日、20 日,也可根据 需求自定义时段;
+3、板块:行业、概念;
+显示所有名称:默认勾选,雷达图上显示名称,若取消勾选, 则名称消失,界面更整洁。
+刷新:全推数据 15 秒 / 次自动刷新,经典版 10 分钟 / 次手 动刷新。
+分别选择横纵坐标的种类、时间段、板块等数据,即可画出雷达图。
+个股依照板块操作即可。</description>
+    </item>
+    
+  </channel>
+</rss>

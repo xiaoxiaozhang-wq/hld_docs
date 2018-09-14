@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>S7s on 黄蓝带使用说明</title>
+    <link>http://hld.docs.jrwx.com/s7/</link>
+    <description>Recent content in S7s on 黄蓝带使用说明</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="http://hld.docs.jrwx.com/s7/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>4.7 分屏显示</title>
+      <link>http://hld.docs.jrwx.com/s7/47-fen-ping-xian-shi/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s7/47-fen-ping-xian-shi/</guid>
+      <description>4.7 分屏显示 无需频繁切换行情，可以在任一屏内独立操作，实现多屏多策略显示，从而更节省浏览时间，全面把握行情动态。</description>
+    </item>
+    
+    <item>
+      <title>4.8多布局</title>
+      <link>http://hld.docs.jrwx.com/s7/48duo-bu-ju/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s7/48duo-bu-ju/</guid>
+      <description>4.8多布局 黄蓝带可以让用户保存多个布局，可以按照用户的需求进行自定义布局，以六屏电脑为例，我们可以在六个屏幕上调用不同的品种和周期，最多可保存9个布局（默认布局）。</description>
+    </item>
+    
+    <item>
+      <title>4.9品种联动</title>
+      <link>http://hld.docs.jrwx.com/s7/49pin-zhong-lian-dong/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s7/49pin-zhong-lian-dong/</guid>
+      <description>4.9品种联动 开启品种联动，用户可以对六个屏幕进行联动，例：用键盘精灵输入“600000”，其它屏幕也会切换到“浦发银行”,还可以进行翻页、鼠标滑动联动。</description>
+    </item>
+    
+    <item>
+      <title>5.0设置</title>
+      <link>http://hld.docs.jrwx.com/s7/50she-zhi/</link>
+      <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
+      
+      <guid>http://hld.docs.jrwx.com/s7/50she-zhi/</guid>
+      <description>5.0设置 如用户不喜欢当前布局，可以进行重新设置，删除当前保存的所有或单个布局，还可以在此处启动十字光标联动。（十字光标联动，见5.1）</description>
+    </item>
+    
+  </channel>
+</rss>

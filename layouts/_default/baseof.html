@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>黄蓝带使用说明</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="/css/articleStyle.css" />
+</head>
+
+<body>
+    <div class="notes_mian-wrap">
+        <div class="touzi_main clearfix">
+            
+            <div class="personal_left-muen j_navUlBox fl">
+                    {{ block "nav" . }}{{ partial "menu.html" . }}{{ end }}
+                
+            </div>
+            <div class="fr personal_right-con">
+                <div class="details_warp markdown-section" id="j_infoBox">
+                        {{ block "main" . }}{{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+</body>
+
+</html>
