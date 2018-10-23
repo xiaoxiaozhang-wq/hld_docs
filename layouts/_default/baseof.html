@@ -30,7 +30,7 @@
             if (intag.tagName == "A" || intag.tagName == "a") {
                 var taga = intag.parentNode;
                 var present = taga.getElementsByTagName("ul")[0];
-                if(!present){return;}
+                if(!present){return false;}
                 if (present.style.display == "block" || present.style.display == "") {
                     //help(taga);
                     present.style.display = "none";
