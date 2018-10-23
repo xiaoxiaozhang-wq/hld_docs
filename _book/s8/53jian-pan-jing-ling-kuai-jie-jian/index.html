@@ -18,7 +18,7 @@
 
 <ul>
         <li class="active">
-                <a class="ti_big" href="javascript:return;">
+                <a class="ti_big" href="javascript:;">
                     黄蓝带使用说明
                 </a>
             </li>
@@ -510,7 +510,7 @@
             if (intag.tagName == "A" || intag.tagName == "a") {
                 var taga = intag.parentNode;
                 var present = taga.getElementsByTagName("ul")[0];
-                if(!present){return;}
+                if(!present){return false;}
                 if (present.style.display == "block" || present.style.display == "") {
                     
                     present.style.display = "none";
