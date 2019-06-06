@@ -1,7 +1,7 @@
 ---
 title: 4.7 分屏显示
 linktitle: 4.7 分屏显示
-description: 黄蓝带使用说明-4.7 分屏显示
+description: 战略家使用说明-4.7 分屏显示
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10
