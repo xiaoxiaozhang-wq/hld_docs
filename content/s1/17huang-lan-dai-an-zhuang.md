@@ -1,7 +1,7 @@
 ---
-title: 1.7黄蓝带安装
-linktitle: 1.7黄蓝带安装
-description: 黄蓝带使用说明-1.7黄蓝带安装
+title: 1.7战略家安装
+linktitle: 1.7战略家安装
+description: 战略家使用说明-1.7战略家安装
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10
@@ -16,7 +16,7 @@ draft: false
 toc: false
 ---
 
-## 1.7黄蓝带安装
+## 1.7战略家安装
 
 运行hld.exe,按提示操作点击“下一步”即可完成安装
 

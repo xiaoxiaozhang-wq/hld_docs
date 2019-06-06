@@ -1,7 +1,7 @@
 ---
 title: 1.5系统配置要求
 linktitle: 1.5系统配置要求
-description: 黄蓝带使用说明-1.5系统配置要求
+description: 战略家使用说明-1.5系统配置要求
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10

@@ -1,7 +1,7 @@
 ---
 title: 2.9机构成本
 linktitle: 2.9机构成本
-description: 黄蓝带使用说明-2.9机构成本
+description: 战略家使用说明-2.9机构成本
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10

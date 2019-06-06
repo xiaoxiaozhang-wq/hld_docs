@@ -1,7 +1,7 @@
 ---
 title: 3.7特色选股
 linktitle: 3.7特色选股
-description: 黄蓝带使用说明-3.7特色选股
+description: 战略家使用说明-3.7特色选股
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10

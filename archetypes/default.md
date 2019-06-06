@@ -1,7 +1,7 @@
 ---
-title: 黄蓝带使用说明-1.1简介说明
+title: 战略家使用说明-1.1简介说明
 linktitle: 1.1简介说明
-description: 黄蓝带使用说明-1.1简介说明
+description: 战略家使用说明-1.1简介说明
 date: {{ .Date }}
 publishdate: {{ .Date }}
 lastmod: {{ .Date }}

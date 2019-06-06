@@ -1,6 +1,6 @@
 baseURL = "http://hld.docs.jrwx.com/"
 footnoteReturnLinkContents = "↩"
-title = "黄蓝带使用说明"
+title = "战略家使用说明"
 
 [permalinks]
   post = "/:year/:month/:title/"

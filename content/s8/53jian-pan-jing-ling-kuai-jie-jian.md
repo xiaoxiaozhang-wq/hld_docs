@@ -1,7 +1,7 @@
 ---
 title: 5.3键盘精灵快捷键
 linktitle: 5.3键盘精灵快捷键
-description: 黄蓝带使用说明-5.3键盘精灵快捷键
+description: 战略家使用说明-5.3键盘精灵快捷键
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10
