@@ -1,7 +1,7 @@
 ---
 title: 1.6常用术语
 linktitle: 1.6常用术语
-description: 黄蓝带使用说明-1.6常用术语
+description: 战略家使用说明-1.6常用术语
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10

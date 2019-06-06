@@ -1,7 +1,7 @@
 ---
 title: 2.0周期
 linktitle: 2.0周期
-description: 黄蓝带使用说明-2.0周期
+description: 战略家使用说明-2.0周期
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10

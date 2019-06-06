@@ -1,7 +1,7 @@
 ---
 title: 2.6热点挖掘
 linktitle: 2.6热点挖掘
-description: 黄蓝带使用说明-2.6热点挖掘
+description: 战略家使用说明-2.6热点挖掘
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10

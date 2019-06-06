@@ -1,37 +1,38 @@
 <!-- sidebar start -->
 
 <ul>
-        <li class="active">
-                <a class="ti_big" href="javascript:;">
-                    黄蓝带使用说明
-                </a>
-            </li>
+    <li class="active">
+        <a class="ti_big" href="javascript:;">
+            战略家使用说明
+        </a>
+    </li>
     {{ $currentPage := . }}
     {{ range .Site.Menus.main }}
-        {{ if .HasChildren }}
-            <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
-                <a class="ti_big" href="javascript:;" onclick="window.filters(this);">
-                    {{ .Pre }}
-                    <span>{{ .Name }}</span>
-                    <i class="icon-r_sj"></i>
-                </a>
-                <ul class="sub-menu nav" {{ if $currentPage.HasMenuCurrent "main" . }}style="display:block"{{else}}style="display:none"{{ end }}>
-                    {{ range .Children }}
-                        <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
-                            <a href="{{ .URL }}">{{ .Name }}</a>
-                        </li>
-                    {{ end }}
-                </ul>
+    {{ if .HasChildren }}
+    <li class="{{ if $currentPage.HasMenuCurrent "main" . }}active{{ end }}">
+        <a class="ti_big" href="javascript:;" onclick="window.filters(this);">
+            {{ .Pre }}
+            <span>{{ .Name }}</span>
+            <i class="icon-r_sj"></i>
+        </a>
+        <ul class="sub-menu nav" {{ if $currentPage.HasMenuCurrent "main" . }}style="display:block"
+            {{else}}style="display:none" {{ end }}>
+            {{ range .Children }}
+            <li class="{{ if $currentPage.IsMenuCurrent "main" . }}active{{ end }}">
+                <a href="{{ .URL }}">{{ .Name }}</a>
             </li>
-            
-        {{ else }}
-            <li >
-                <a class="ti_big" href="{{ .URL }}">
-                    {{ .Pre }}
-                    <span>{{ .Name }}</span>
-                    <i class="icon-r_sj"></i>
-                </a>
-            </li>
-        {{ end }}
+            {{ end }}
+        </ul>
+    </li>
+
+    {{ else }}
+    <li>
+        <a class="ti_big" href="{{ .URL }}">
+            {{ .Pre }}
+            <span>{{ .Name }}</span>
+            <i class="icon-r_sj"></i>
+        </a>
+    </li>
+    {{ end }}
     {{ end }}
 </ul>

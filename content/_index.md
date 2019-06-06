@@ -1,6 +1,6 @@
 # Summary
 
-* [黄蓝带使用说明书](README.md)
+* [战略家使用说明书](README.md)
 * [一、软件基础功能说明](s1.md)
   * [1.1简介说明](s1/11jian-jie-shuo-ming.md)
   * [1.2免责声明](s1/12mian-ze-sheng-ming.md)
@@ -8,7 +8,7 @@
   * [1.4软件功能综述](s1/14ruan-jian-gong-neng-zong-shu.md)
   * [1.5系统配置要求](s1/15xi-tong-pei-zhi-yao-qiu.md)
   * [1.6常用术语](s1/16chang-yong-zhu-yu.md)
-  * [1.7黄蓝带安装](s1/17huang-lan-dai-an-zhuang.md)
+  * [1.7战略家安装](s1/17huang-lan-dai-an-zhuang.md)
   * [1.8登录](s1/18deng-lu.md)
   * [1.9代理登录](s1/19dai-li-deng-lu.md)
 * [二、特色功能说明](s2.md)

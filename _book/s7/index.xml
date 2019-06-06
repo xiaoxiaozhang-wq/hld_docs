@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>S7s on 黄蓝带使用说明</title>
+    <title>S7s on 战略家使用说明</title>
     <link>http://hld.docs.jrwx.com/s7/</link>
-    <description>Recent content in S7s on 黄蓝带使用说明</description>
+    <description>Recent content in S7s on 战略家使用说明</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Mon, 10 Sep 2018 00:00:00 +0000</lastBuildDate>
     
@@ -25,7 +25,7 @@
       <pubDate>Mon, 10 Sep 2018 00:00:00 +0000</pubDate>
       
       <guid>http://hld.docs.jrwx.com/s7/48duo-bu-ju/</guid>
-      <description>4.8多布局 黄蓝带可以让用户保存多个布局，可以按照用户的需求进行自定义布局，以六屏电脑为例，我们可以在六个屏幕上调用不同的品种和周期，最多可保存9个布局（默认布局）。</description>
+      <description>4.8多布局 战略家可以让用户保存多个布局，可以按照用户的需求进行自定义布局，以六屏电脑为例，我们可以在六个屏幕上调用不同的品种和周期，最多可保存9个布局（默认布局）。</description>
     </item>
     
     <item>

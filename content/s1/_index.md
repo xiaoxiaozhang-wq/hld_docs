@@ -4,6 +4,6 @@
   * [1.4软件功能综述](14ruan-jian-gong-neng-zong-shu.md)
   * [1.5系统配置要求](15xi-tong-pei-zhi-yao-qiu.md)
   * [1.6常用术语](16chang-yong-zhu-yu.md)
-  * [1.7黄蓝带安装](17huang-lan-dai-an-zhuang.md)
+  * [1.7战略家安装](17huang-lan-dai-an-zhuang.md)
   * [1.8登录](18deng-lu.md)
   * [1.9代理登录](19dai-li-deng-lu.md)

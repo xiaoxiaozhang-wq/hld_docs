@@ -1,7 +1,7 @@
 ---
 title: 4.4箱体指标
 linktitle: 4.4箱体指标
-description: 黄蓝带使用说明-4.4箱体指标
+description: 战略家使用说明-4.4箱体指标
 date: 2018-09-10
 publishdate: 2018-09-10
 lastmod: 2018-09-10
