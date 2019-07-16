@@ -37,3 +37,5 @@ book.mobi
 /_book/main.go
 /public
 /_book.bak
+.DS_Store
+
