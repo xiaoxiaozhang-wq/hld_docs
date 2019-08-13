@@ -22,17 +22,19 @@ toc: false
 
 【硬件配置】
 
-CPU Pentium\(586\)／166以上
+X86PC，其中：
 
-硬盘 高于250M可用硬盘空间
+CPU: I3或以上;
 
-内存 512M
+内存(RAM): >= 4G;
 
-显示适配器 800×600以上分辨率、256色显示模式
+硬盘:100G以上;
+
+显示器: 17"或以上;
+
+网卡:10M或以上;
 
 【软件配置】
 
-中文版 WindowsXP/ Win7/Win10/VISTA
-
-西文版 WindowsXP/Win7/Win10/VISTA
+计算机系统   Win7/Win8/Win10上运行
 
